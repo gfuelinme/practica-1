@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+    background-color: blue;
+    border: 2px solid aliceblue;
+    padding: 20px;
+    margin: 40px;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 20px;
+    margin: 10px;
+    color: yellow;
+}
+
+p {
+    font-family: monospace;
+    margin: 10px;
+    color: aliceblue;
+}
+
+#pie-de-pagina p {
+    text-align: center;
+    color: aliceblue;
+}
+
+section {
+    background-color: blue;
+    border: 2px solid aliceblue;
+    margin: 40px;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    border: 1px solid aliceblue;
+}
